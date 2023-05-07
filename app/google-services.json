@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "266496161279",
+    "project_id": "signineasy-c6d72",
+    "storage_bucket": "signineasy-c6d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266496161279:android:eae551ad4c5ad01a0be3ca",
+        "android_client_info": {
+          "package_name": "com.easy.google.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266496161279-kb9jk0uuh3dheghl12fj79jgt00060fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easy.google.signin",
+            "certificate_hash": "0bc7f3b523791f8becdd202fb75593677d466273"
+          }
+        },
+        {
+          "client_id": "266496161279-jo4gfd380rr31sepq2v69u1jl5431d6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgJAdK23bWkVDNi6wO55KZ6YCzrEoDHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266496161279-jo4gfd380rr31sepq2v69u1jl5431d6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
